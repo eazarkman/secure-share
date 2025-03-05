@@ -39,7 +39,3 @@ Secure Share is a secure, one-time file-sharing web application built with Flask
         python app.py
         Open your browser and visit http://127.0.0.1:5000/ to test the app.
 
-
-    Deployment on a Bare-Bones Linux Server
-    Below are step-by-step instructions for deploying Secure Share on an Ubuntu/Debian server using Gunicorn and Nginx.
-
