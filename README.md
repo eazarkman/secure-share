@@ -35,7 +35,6 @@ Secure Share is a secure, one-time file-sharing web application built with Flask
         pip install flask gunicorn
 
     Run the application locally:
-
         python app.py
         Open your browser and visit http://127.0.0.1:5000/ to test the app.
 
